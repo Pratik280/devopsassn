@@ -9,9 +9,9 @@ Playing with files.
 
 - Edit some data and then save the file.
 
-  ![Screenshot](./1-1.jpg)
+  ![Screenshot](./1-1.JPG)
 
-  ![Screenshot](./1-2.jpg)
+  ![Screenshot](./1-2.JPG)
 
 ---
 
@@ -20,7 +20,7 @@ Playing with files.
 - cp file1.txt file2.txt
 - Output of file2.txt
 
-  ![Screenshot](./2-1.jpg)
+  ![Screenshot](./2-1.JPG)
 
 ---
 
@@ -29,7 +29,7 @@ Playing with files.
 - mv file2.txt /home
 - Then go to home directory and check ls, file exists or not ?
 
-  ![Screenshot](./3-1.jpg)
+  ![Screenshot](./3-1.JPG)
 
 --- 
 
@@ -37,11 +37,11 @@ Playing with files.
 
 - Now do echo “Hello I am newline” > file3.txt and provide the output of file3.txt.
 
-  ![Screenshot](./4-1.jpg)
+  ![Screenshot](./4-1.JPG)
 
 - Now do echo “Hello I am newline” >> file4.txt and provide the output of file4.txt.
 
-  ![Screenshot](./4-2.jpg)
+  ![Screenshot](./4-2.JPG)
 
 - Tell the different between both step you follow and the reason behind it.
 
@@ -49,7 +49,7 @@ Playing with files.
 
   cat >> filename is used to append txt to a file.
 
-  ![Screenshot](./4-3.jpg)
+  ![Screenshot](./4-3.JPG)
 
 ---
 
@@ -57,10 +57,10 @@ Playing with files.
 
 - To delete a file – rm <any_filename>
 
-  ![Screenshot](./5-1.jpg)
+  ![Screenshot](./5-1.JPG)
 
 - To delete a directory - rmdir <any_directory name>
 
-  ![Screenshot](./5-2.jpg)
+  ![Screenshot](./5-2.JPG)
 
 ---

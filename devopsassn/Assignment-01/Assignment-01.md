@@ -7,11 +7,11 @@
 
   - Provide Screenshot and What you understand, explain in short brief?
 
-    ![Screenshot](./1-1.jpg)
+    ![Screenshot](./1-1.JPG)
 
-    ![Screenshot](./1-2.jpg)
+    ![Screenshot](./1-2.JPG)
 
-    ![Screenshot](./1-3.jpg)
+    ![Screenshot](./1-3.JPG)
 
     - Cant login to a non-existent username.
 
@@ -27,7 +27,7 @@
 
     - Explain what happen and give screenshot?
 
-    ![Screenshot](./2-1.jpg)
+    ![Screenshot](./2-1.JPG)
 
     - User login password is changes to new password.
 
@@ -35,7 +35,7 @@
 
   - Explain what happen and give screenshot?
 
-    ![Screenshot](./2-2.jpg)
+    ![Screenshot](./2-2.JPG)
 
     - Doesnt allows to change password to generic sequences like "1234".
 
@@ -43,11 +43,16 @@
 
   - Explain what happen and give screenshot?
 
-    ![Screenshot](./2-3.jpg)
+    ![Screenshot](./2-3.JPG)
 
     - Cant change password.
 
+- Adding user to linode 
+
+  ![Screenshot](./2-4.JPG)
+
 ---
+
 ## **Assignment 3**
 
 ### **Working with Directories**
@@ -56,7 +61,7 @@
 
   - Take screenshot and explain what output we got?
 
-    ![Screenshot of ls command in /](./3-1.jpg)
+    ![Screenshot of ls command in /](./3-1.JPG)
 
     - "/" is the root directory in linux OS.
     - Everything in linux begins from this directory.
@@ -65,7 +70,7 @@
 
   - Do ls, provide screenshot and explain what is /home directory used for?
 
-    ![Screenshot of ls command in /home](./3-2.jpg)
+    ![Screenshot of ls command in /home](./3-2.JPG)
 
     - /home directory lists the number of directories for specific users in system.
 
@@ -73,7 +78,7 @@
 
   - Check what happen and give screenshot?
 
-    ![Screenshot of cd .. command in /home](./3-3.jpg)
+    ![Screenshot of cd .. command in /home](./3-3.JPG)
 
     - It takes us to / directory ie one directory up.
 
@@ -81,7 +86,7 @@
 
   - Explain what happen and give screenshot?
 
-    ![Screenshot of cd /var/www/html and then cd + Enter command](./3-4.jpg)
+    ![Screenshot of cd /var/www/html and then cd + Enter command](./3-4.JPG)
 
     - Since there is not such folder such as www/html inside /var it gave us the error that "No such file or folder"
     
@@ -91,7 +96,7 @@
 
   - Do ls, check any output we have on screen if yes then take screenshot?
 
-    ![Screenshot of cd /root](./3-5.jpg)
+    ![Screenshot of cd /root](./3-5.JPG)
     
 ---
 ## **Assignment 4**
@@ -103,7 +108,7 @@
   - Take screenshot and explain what files you have seeing?
   - Take screenshot and explain what different output you found compare to previous command you used?
 
-    ![Screenshot of cd /etc](./4-1.jpg)
+    ![Screenshot of cd /etc](./4-1.JPG)
 
     - System configuration files are stored in /etc
 
@@ -112,7 +117,7 @@
 
   - Take screenshot and explain what new file or directory you found?
 
-    ![Screenshot of ls -al /etc](./4-2.jpg)
+    ![Screenshot of ls -al /etc](./4-2.JPG)
 
     - *ls -l* : to list files and folders is list format
     - *ls -a* : to list all files and folders (including hidden files) in current directory
@@ -122,7 +127,7 @@
 
   - Now see what different output its shows and take screenshot?
 
-    ![Screenshot of ls -i /etc](./4-3.jpg)
+    ![Screenshot of ls -i /etc](./4-3.JPG)
 
     - Displays all files in list format along with its inode number.
     - inode number is a unique identidfier for a specific piece of metadata on a given filesystem.
@@ -131,7 +136,7 @@
 
   - Explore it and try with other attribute we can use with ls command
 
-    ![Screenshot of ls -lash /etc](./4-4.jpg)
+    ![Screenshot of ls -lash /etc](./4-4.JPG)
 
     - ls -s: shows size of each file.
     - ls -h: shows sizes in human readable format
@@ -152,17 +157,17 @@
 
   - Check which location you working, type pwd and take screenshot.
 
-![Screenshot of pwd and ls command](./5-1.jpg)
+![Screenshot of pwd and ls command](./5-1.JPG)
 
 - Now use cd /var and hit Enter key.
 
   - Do ls, and see what output comes, give screenshot?
 
-![Screenshot of ls command in /var directory](./5-2.jpg)
+![Screenshot of ls command in /var directory](./5-2.JPG)
 
 - Do explore other help options of each command to learn more other things we can do with these commands
 
-![Screenshot of other ls commands](./5-3.jpg)
+![Screenshot of other ls commands](./5-3.JPG)
 
 - Here we use commands:
 
@@ -180,7 +185,7 @@
 sudo yum update
 ```
 
-![Screenshot of update](./6-1.jpg)
+![Screenshot of update](./6-1.JPG)
 
 ---
 
@@ -197,6 +202,6 @@ sudo yum install elfutils-libelf-devel
 
 ```
 
-![Screenshot of fullscreen](./7-1.jpg)
+![Screenshot of fullscreen](./7-1.JPG)
 
 ---
